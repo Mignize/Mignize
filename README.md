@@ -11,6 +11,8 @@ I am a web developer, I am 17 years old, I like to program, I am self-taught, fo
 [![TypeScript](https://img.shields.io/badge/TypeScript-2F4CED?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)](https://github.com/Mignize/Mignize)
 [![Next.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)](https://github.com/Mignize/Mignize)
 [![GraphQL](https://img.shields.io/badge/GraphQL-FF32C4?style=for-the-badge&logo=graphql&logoColor=white&labelColor=000000)](https://github.com/Mignize/Mignize)
+</br>
+[![React.JS](https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)](https://github.com/Mignize/Mignize)
 
 ## Contact Me:
 [![Email](https://img.shields.io/badge/Mignize@gmail.com-my_personal_mail-FF9FE5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:Mignize@gmail.com)
